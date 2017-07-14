@@ -1,7 +1,7 @@
 # hello-world
 
-I am almost brand new to coding. Once upon a time, long ago, I self-taught myself some Basic programming. I made a fun
-little secret agent login game, complete with colors, sounds and alarms. I thought it was awesome at the time. Outside of
+I am almost brand new to coding. Once upon a time, long ago, I taught myself some Basic programming. I made a fun
+little secret agent login game, complete with color, sounds and alarms. I thought it was awesome at the time. Outside of
 that, my only coding has been very recent training on codingacademy.com.
 
 I have been maried for 17 years. We have 2 sons, ages 4 & almost 2. We are also Foster parents and have blessed and been
